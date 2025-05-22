@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**ajyyyb/ajyyyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Ajyyyb</h1>
+<h3 align="center">A passionate Flutter developer from Kyrgyzstan 🇰🇬</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: My Flutter App
+- 🌱 I’m currently learning: Dart, Flutter, Firebase
+- 📫 How to reach me: ajyyyb@gmail.com
+- ⚽ I like football and coding at night
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🌐 Connect with me:</h3>
+<p>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+  <a href="https://t.me/yourtelegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white" /></a>
+</p>
+
+<h3>🛠️ Languages and Tools:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Dart-blue?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-yellow?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
+</p>
+
+<h3>📊 GitHub Stats:</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajyyyb&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajyyyb&layout=compact&theme=dark" />
+</p>
