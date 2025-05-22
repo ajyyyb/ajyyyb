@@ -1,20 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ajyyyb</h1>
+
+
+<h1 align="center">Hi 👋, I'm Ajybek</h1>
 <h3 align="center">A passionate Flutter developer from Kyrgyzstan 🇰🇬</h3>
 
 - 🔭 I’m currently working on: My Flutter App
 - 🌱 I’m currently learning: Dart, Flutter, Firebase
-- 📫 How to reach me: ajyyyb@gmail.com
+- 📫 How to reach me: ajbeksamuratov0@gmail.com
 - ⚽ I like football and coding at night
 
 <h3>🌐 Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-  <a href="https://t.me/ajyyyb" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white" />
-</a>
-
-</a>
-logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/ajyBek" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white" /></a>
 </p>
 
 <h3>🛠️ Languages and Tools:</h3>
