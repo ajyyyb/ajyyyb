@@ -11,7 +11,9 @@
 <h3>🌐 Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-  <a href="https://t.me/ajyBek" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white" /></a>
+
+  <img src="https://img.shields.io/badge/Телефон:__+996_504_452745-0088cc?logo=telegram"/>
+</a>
 </p>
 
 <h3>🛠️ Languages and Tools:</h3>
