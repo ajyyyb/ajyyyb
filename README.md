@@ -9,8 +9,10 @@
 <h3>🌐 Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-  <a href="https://t.me/ajyBek" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-0088cc?
+  <a href="https://t.me/ajyyyb" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white" />
+</a>
+
 </a>
 logo=telegram&logoColor=white" /></a>
 </p>
