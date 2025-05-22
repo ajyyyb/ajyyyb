@@ -12,7 +12,9 @@
 <p>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
 
-  <img src="https://img.shields.io/badge/Телефон:__+996_504_452745-0088cc?logo=telegram"/>
+  <a href="https://t.me/username">
+  <img src="https://img.shields.io/badge/Написать_в_Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 </a>
 </p>
 
