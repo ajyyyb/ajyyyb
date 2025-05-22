@@ -8,16 +8,7 @@
 - 📫 How to reach me: ajbeksamuratov0@gmail.com
 - ⚽ I like football and coding at night
 
-<h3>🌐 Connect with me:</h3>
-<p>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
 
-  <a href="https://t.me/ajyBekk06">
-  ## Контакты
-[<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="22">](https://t.me/ajyBekk06)
-</a>
-</a>
-</p>
 
 <h3>🛠️ Languages and Tools:</h3>
 <p>
