@@ -9,3 +9,4 @@
 - 2026-11-07: Practice C++ pointers
 - 2026-11-07: Plan weekend project ideas
 - 2026-11-07: Review state management options
+- 2026-11-07: Write down lessons learned today
