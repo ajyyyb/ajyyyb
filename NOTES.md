@@ -15,3 +15,4 @@
 Daily notes are kept in this file.
 - Extra note 1: small docs update
 - Extra note 2: small docs update
+- Extra note 3: small docs update
