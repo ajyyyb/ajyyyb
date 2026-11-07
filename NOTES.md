@@ -6,3 +6,4 @@
 - 2026-11-07: Refactor a small helper function
 - 2026-11-07: Study Git branching strategies
 - 2026-11-07: Learn about REST API design
+- 2026-11-07: Practice C++ pointers
