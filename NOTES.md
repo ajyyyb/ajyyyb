@@ -10,3 +10,6 @@
 - 2026-11-07: Plan weekend project ideas
 - 2026-11-07: Review state management options
 - 2026-11-07: Write down lessons learned today
+
+## Summary
+Daily notes are kept in this file.
