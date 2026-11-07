@@ -8,3 +8,4 @@
 - 2026-11-07: Learn about REST API design
 - 2026-11-07: Practice C++ pointers
 - 2026-11-07: Plan weekend project ideas
+- 2026-11-07: Review state management options
