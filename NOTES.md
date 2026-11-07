@@ -21,3 +21,4 @@ Daily notes are kept in this file.
 - Extra note 6: small docs update
 - Extra note 7: small docs update
 - Extra note 8: small docs update
+- Extra note 9: small docs update
