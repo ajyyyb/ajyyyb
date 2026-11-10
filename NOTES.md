@@ -43,3 +43,4 @@ Daily notes are kept in this file.
 - 2026-11-10 note 5: small daily practice entry.
 - 2026-11-10 note 6: small daily practice entry.
 - 2026-11-10 note 7: small daily practice entry.
+- 2026-11-10 note 8: small daily practice entry.
